@@ -1,0 +1,13 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css";
+
+.container {
+    margin-top: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.title {
+    margin-top: 10px importante!;
+}
+
+.lista {
+
+}
